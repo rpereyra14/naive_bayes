@@ -1,23 +1,11 @@
 /* 
  * University of North Carolina at Chapel Hill
- * Spring 2013 Artificial Intelligence
+ * Spring 2013 Artificial Intelligence & Machine Learning
  * Homework 2 - 3/18/2013
  * Renato Pereyra
  */
 
 The Naive Bayes model as described in HW 2 was implemented in Naive_Bayes.java
-
-##########################################################################
-
-
-NOTE: In question 9 part 4 we are asked to output "meaningful" word data.
-This feature can be turned on/off/increased/decreased via the 
-NUM_WORDS_TO_PRINT constant found toward the top of my code.
-
-Likewise, NUM_FOLDS to vary the number of folds for cross validation.
-
-
-##########################################################################
 
 Compilation Notes:
 
