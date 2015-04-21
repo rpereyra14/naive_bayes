@@ -2,7 +2,7 @@
 
 To determine whether an email is spam or not based on the words it contains. For example, emails mentioning money being offered by a Nigerian price would be deemed more likely to be spam based on words contained in the body of the email.
 
-### Formation of train, test, and vocab files
+### Format of train, test, and vocab files
 
 + The vocab.txt file contains a mapping of words to integers.
 + The train and test files are of the format: [SPAM=1|NOT=0],word_from_vocab,word_count(,word_from_vocab,word_count)*
