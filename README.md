@@ -1,9 +1,3 @@
-/* 
- * University of North Carolina at Chapel Hill
- * Spring 2013 Artificial Intelligence & Machine Learning
- * Renato Pereyra
- */
-
 ### Overview
 
 To determine whether an email is spam or not based on the words it contains. For example, emails mentioning money being offered by a Nigerian price would be deemed more likely to be spam based on words contained in the body of the email.
