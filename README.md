@@ -34,4 +34,4 @@ Single runs hover around the 97% correctness margin (calculated via 5-fold Cross
 
 ### Design Notes:
 
-Vocabulary, TrainData, and TestData are loaded through their respective "load" methods. Prediction of a spam or ham email is based on Bayesian Inference as determined by the Maximum Likelihood estimate of the Naive Bayes model outlined in HW 2 question 8. Labeles are checked for correctness and banners describing the results are printed after each run.
+Vocabulary, TrainData, and TestData are loaded through their respective "load" methods. Prediction of a spam or ham email is based on Bayesian Inference as determined by the Maximum Likelihood estimate of the Naive Bayes model. Labels are checked for correctness and banners describing the results are printed after each run.
